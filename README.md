@@ -1,4 +1,4 @@
-# PluginPenuin #
+# PluginPenguin #
 
 
 ### **About** ###
