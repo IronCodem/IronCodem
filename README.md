@@ -9,7 +9,7 @@ I go to Moody Middle School and I love to learn new things!
 Sometimes, I like to play cricket and soccer, except the COVID times where I just play Cricket 2011 (the EA game).
 I love the colour eco-green, although crimson is pretty nice :)
 
-You can find me on [Repl.it](http://repl.it/YashasShah) and [GitHub](http://github.com/ParrotCode101).
+You can find me on [Repl.it](http://repl.it/@YashasShah) and [GitHub](http://github.com/ParrotCode101).
 
 
 
