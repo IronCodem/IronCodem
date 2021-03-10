@@ -5,8 +5,9 @@
 
 Hello, coding world...
 
-I know 8 languages: HTML, Python, CSS, JS, Node.JS, Tcl, Haskell, & Dart.
-I go to Moody Middle School and I love to learn new things!
+👨🏻‍💻I know 8 languages: HTML, Python, CSS, JS, Node.JS, Tcl, Haskell, & Dart.
+
+🏫I go to Moody Middle School and I love to learn new things!
 My favourite day of the year is 25th December. Why? It's my birthday.
 Sometimes, I like to play cricket and soccer, except the COVID times where I just play Cricket 2011 (the EA game).
 I love the colour eco-green.
