@@ -27,3 +27,5 @@ Some of my favourite hobbies (excluding coding) include:
 - [x] Doing homework
 - [x] Drawing
 - [x] Watching YouTube videos
+
+![](https://komarev.com/ghpvc/?username=PluginPenguin)
