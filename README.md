@@ -12,12 +12,15 @@
 👨🏻‍💻 You can find me on [Repl.it](http://repl.it/@YashasShah) and [GitHub](http://github.com/ParrotCode101).
 
 
-Github Stats 🦸‍♂️
+
+
+### Github Stats 🦸‍♂️ ###
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=PluginPenguin)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PluginPenguin)
 
+### More ###
 Some of my favourite hobbies (excluding coding) include:
 - [x] Biking 🚲
 - [x] Reading 📚
