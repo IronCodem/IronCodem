@@ -3,29 +3,26 @@
 
 ### **About** ###
 
-Hello, coding world!
+🙋🏻‍♂️ Hello, coding world!
 
-I go to Moody Middle School and I love to learn new things!
-Sometimes, I like to play cricket and soccer, except the COVID times where I just play Cricket 2011 (the EA game).
-I love the colour eco-green, although crimson is pretty nice :)
+🏫 I go to Moody Middle School and I love to learn new things!
 
-You can find me on [Repl.it](http://repl.it/@YashasShah) and [GitHub](http://github.com/ParrotCode101).
+🏏Sometimes, I like to play cricket and soccer, except the COVID times where I just play Cricket 2011 (the EA game).
+
+👨🏻‍💻 You can find me on [Repl.it](http://repl.it/@YashasShah) and [GitHub](http://github.com/ParrotCode101).
 
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PluginPenguin)
+Github Stats 🦸‍♂️
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=PluginPenguin)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PluginPenguin)
 
 Some of my favourite hobbies (excluding coding) include:
-- [x] Biking
-- [x] Reading
-- [x] Completing projects
-- [x] Doing homework
-- [x] Drawing
-- [x] Watching YouTube videos
- 
-![](https://komarev.com/ghpvc/?username=PluginPenguin)
+- [x] Biking 🚲
+- [x] Reading 📚
+- [x] Completing projects 📉
+- [x] Doing homework 📝
+- [x] Drawing ✏
+- [x] Watching YouTube videos 📼
 
-###### Pay no heed to the numbers. Every time I visit my profile, 1 view is added.
+
