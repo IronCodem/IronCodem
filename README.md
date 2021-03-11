@@ -27,3 +27,5 @@ Some of my favourite hobbies (excluding coding) include:
 - [x] Watching YouTube videos
  
 ![](https://komarev.com/ghpvc/?username=PluginPenguin)
+
+###### Pay no heed to the numbers. Every time I visit my profile, 1 view is added.
