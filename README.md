@@ -1,7 +1,7 @@
 # PluginPenguin #
 
 
-### **About** ###
+## **About 👦🏻** ##
 
 🙋🏻‍♂️ Hello, coding world!
 
@@ -14,7 +14,7 @@
 
 
 
-### Github Stats 🦸‍♂️ ###
+## **Github Stats 🦸‍♂️** ##
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=PluginPenguin)
 
