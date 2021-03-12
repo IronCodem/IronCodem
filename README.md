@@ -9,7 +9,7 @@
 
 🏏Sometimes, I like to play cricket and soccer, except the COVID times where I just play Cricket 2011 (the EA game).
 
-👨🏻‍💻 You can find me on [Repl.it (now Replit.com, I'll change that on Friday cuz that's when they're moving)](http://repl.it/@YashasShah) and [GitHub](http://github.com/ParrotCode101).
+👨🏻‍💻 You can find me on [Replit.com](http://repl.it/@YashasShah) and [GitHub](http://github.com/ParrotCode101).
 
 
 
