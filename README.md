@@ -14,8 +14,7 @@
 
 ## **Github Stats 🦸‍♂️** ##
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PluginPenguin&layout=compact)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PluginPenguin&layout=compact&theme=cobalt)
 
 ![PluginPenguinn's GitHub stats](https://github-readme-stats.vercel.app/api?username=PluginPenguin&show_icons=true&theme=cobalt)
 
