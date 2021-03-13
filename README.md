@@ -1,17 +1,14 @@
 # PluginPenguin #
 
-
-## **About 👦🏻** ##
-
-🙋🏻‍♂️ Hello, coding world!
-
 🏫 I go to Moody Middle School and I love to learn new things!
 
-🏏Sometimes, I like to play cricket and soccer, except the COVID times where I just play Cricket 2011 (the EA game).
+🏏Sometimes, I like to play cricket and soccer, except the COVID times where I just play Cricket 2011 (the EA game)
 
-👨🏻‍💻 You can find me on [Replit.com](http://repl.it/@YashasShah) and [GitHub](http://github.com/ParrotCode101).
+👨🏻‍💻 You can find me on [Replit.com](http://repl.it/@YashasShah) and [GitHub](http://github.com/ParrotCode101)
 
+🌱 Learning Next.js and React.js
 
+🤯 I started coding in first grade (at that time it was Scratch and only Scratch)
 
 
 ## **Github Stats 🦸‍♂️** ##
