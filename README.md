@@ -20,7 +20,7 @@
 
 ##
 
-## **More** ##
+## **More ➕** ##
 Some of my favourite hobbies (excluding coding) include:
 - [x] Biking 🚲
 - [x] Reading 📚
