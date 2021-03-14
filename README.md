@@ -10,13 +10,15 @@
 
 🤯 I started coding in first grade (at that time it was Scratch and only Scratch)
 
-
+##
 
 ## **Github Stats 🦸‍♂️** ##
 
 ![PluginPenguinn's GitHub stats](https://github-readme-stats.vercel.app/api?username=PluginPenguin&show_icons=true&theme=cobalt)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PluginPenguin&layout=compact&theme=cobalt)
+
+##
 
 ## **More** ##
 Some of my favourite hobbies (excluding coding) include:
