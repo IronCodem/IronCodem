@@ -6,7 +6,7 @@
 
 👨🏻‍💻 You can find me on [Replit.com](http://repl.it/@YashasShah) and [GitHub](http://github.com/ParrotCode101)
 
-🌱 Learning Next.js and React.js
+🌱 Learning Next.js and Macron.js
 
 🤯 I started coding in first grade (at that time it was Scratch and only Scratch)
 
