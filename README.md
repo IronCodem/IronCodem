@@ -12,7 +12,7 @@
 
 ##
 
-## **Github Stats ⚡** ##
+## **⚡ Github Stats** ##
 
 ![PluginPenguinn's GitHub stats](https://github-readme-stats.vercel.app/api?username=PluginPenguin&show_icons=true&theme=cobalt)
 
@@ -20,7 +20,7 @@
 
 ##
 
-## **More ➕** ##
+## **➕ More** ##
 Some of my favourite hobbies (excluding coding) include:
 - [x] Biking 🚲
 - [x] Reading 📚
