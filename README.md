@@ -1,4 +1,6 @@
-# **PluginPenguin** ![](https://komarev.com/ghpvc/?username=PluginPenguin) #
+# **PluginPenguin** #
+![](https://komarev.com/ghpvc/?username=PluginPenguin)
+#
 
 🏫 I go to George H. Moody Middle School and I love to learn new things!
 
