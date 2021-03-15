@@ -30,3 +30,4 @@ Some of my favourite hobbies (excluding coding) include:
 - [x] Watching YouTube videos 📼
 
 
+![](https://komarev.com/ghpvc/?username=PluginPenguin)
