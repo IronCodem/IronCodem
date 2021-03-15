@@ -1,4 +1,4 @@
-# **PluginPenguin** #
+# **PluginPenguin** ![](https://komarev.com/ghpvc/?username=PluginPenguin) #
 
 🏫 I go to George H. Moody Middle School and I love to learn new things!
 
@@ -30,6 +30,6 @@ Some of my favourite hobbies (excluding coding) include:
 - [x] Watching YouTube videos 📼
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PluginPenguin&repo=Build-a-Better-README&theme=cobalt)
+###### Go visit it!
 
 
-![](https://komarev.com/ghpvc/?username=PluginPenguin)
