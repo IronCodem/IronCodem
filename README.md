@@ -31,7 +31,7 @@ Some of my favourite hobbies (excluding coding) include:
 - [x] Drawing ✏
 - [x] Watching YouTube videos 📼
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PluginPenguin&repo=Build-a-Better-README&theme=cobalt)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PluginPenguin&repo=Build-a-Better-README&theme=cobalt)](https://github.com/PluginPenguin/Build-a-Better-README)
 ###### Go visit it!
 
 
