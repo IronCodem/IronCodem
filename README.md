@@ -19,6 +19,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PluginPenguin&layout=compact&theme=cobalt)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PluginPenguin&theme=cobalt)
+
 ##
 
 ## **➕ More** ##
