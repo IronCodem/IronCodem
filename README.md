@@ -15,11 +15,11 @@
 
 ## **⚡ Github Stats** ##
 
-![PluginPenguinn's GitHub stats](https://github-readme-stats.vercel.app/api?username=PluginPenguin&show_icons=true&theme=vue-dark)
+![PluginPenguinn's GitHub stats](https://github-readme-stats.vercel.app/api?username=PluginPenguin&show_icons=true&theme=react)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PluginPenguin&layout=compact&theme=vue-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PluginPenguin&layout=compact&theme=react)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PluginPenguin&theme=vue-dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PluginPenguin&theme=react)
 
 ##
 
