@@ -13,11 +13,13 @@
 
 ##
 
-## **⚡ Github Stats** ##
+## **⚡ Github Highlights** ##
 
 ![PluginPenguinn's GitHub stats](https://github-readme-stats.vercel.app/api?username=PluginPenguin&show_icons=true&theme=react)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PluginPenguin&layout=compact&theme=react)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=PluginPenguin&theme=nord)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PluginPenguin&theme=react)
 
