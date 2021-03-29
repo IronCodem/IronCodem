@@ -1,4 +1,4 @@
-# **PluginPenguin** #
+# **FirewallStampede** #
 
 
 🏫 I go to George H. Moody Middle School and I love to learn new things!
@@ -15,13 +15,13 @@
 
 ## **⚡ Github Highlights** ##
 
-![PluginPenguinn's GitHub stats](https://github-readme-stats.vercel.app/api?username=PluginPenguin&show_icons=true&theme=react)
+![PluginPenguinn's GitHub stats](https://github-readme-stats.vercel.app/api?username=FirewallStampede&show_icons=true&theme=react)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PluginPenguin&layout=compact&theme=react)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FirewallStampede&layout=compact&theme=react)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=PluginPenguin&theme=nord)
+![trophy](https://github-profile-trophy.vercel.app/?username=FirewallStampede&theme=nord)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PluginPenguin&theme=react)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FirewallStampede&theme=react)
 
 ##
 
