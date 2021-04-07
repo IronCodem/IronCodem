@@ -1,5 +1,4 @@
 # **FirewallStampede** #
-#
 ![](https://komarev.com/ghpvc/?username=FirewallStampede)
 #
 🏫 I go to George H. Moody Middle School and I love to learn new things!
