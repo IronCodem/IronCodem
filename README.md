@@ -26,7 +26,7 @@
 ##
 
 ## **➕ More** ##
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FirewallStampede&repo=Build-a-Better-README&theme=react)](https://github.com/PluginPenguin/Build-a-Better-README)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YashasTheDev&repo=Build-a-Better-README&theme=react)](https://github.com/YashasTheDev/Build-a-Better-README)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YashasTheDev&repo=Entry-Badges&theme=react)](https://github.com/YashasTheDev/Entry-Badges)
 ###### Go visit it!
 
 Scroll down for more!
