@@ -15,13 +15,13 @@
 
 ## **⚡ Github Highlights** ##
 
-![PluginPenguinn's GitHub stats](https://github-readme-stats.vercel.app/api?username=FirewallStampede&show_icons=true&theme=react)
+![PluginPenguinn's GitHub stats](https://github-readme-stats.vercel.app/api?username=YashasTheDev&show_icons=true&theme=react)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FirewallStampede&layout=compact&theme=react)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YashasTheDev&layout=compact&theme=react)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=FirewallStampede&theme=nord)
+![trophy](https://github-profile-trophy.vercel.app/?username=YashasTheDev&theme=nord)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FirewallStampede&theme=react)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YashasTheDev&theme=react)
 
 ##
 
