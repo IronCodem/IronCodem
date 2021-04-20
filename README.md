@@ -15,7 +15,7 @@
 
 ## **⚡ Github Highlights** ##
 
-![](https://img.shields.io/badge/Role-Professional%20Software%20Developer-orange)
+![](https://img.shields.io/badge/Role-Pro%20Software%20Dev-orange)
 
 ![YashasTheDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=YashasTheDev&show_icons=true&theme=react)
 
