@@ -1,5 +1,5 @@
 # **FirewallStampede** #
-![](https://komarev.com/ghpvc/?username=FirewallStampede)![](https://img.shields.io/badge/Role-Headmaster-orange)
+![](https://komarev.com/ghpvc/?username=FirewallStampede)
 #
 🏫 I go to George H. Moody Middle School and I love to learn new things!
 
@@ -15,7 +15,9 @@
 
 ## **⚡ Github Highlights** ##
 
-![PluginPenguinn's GitHub stats](https://github-readme-stats.vercel.app/api?username=YashasTheDev&show_icons=true&theme=react)
+![](https://img.shields.io/badge/Role-Headmaster-orange)
+
+![YashasTheDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=YashasTheDev&show_icons=true&theme=react)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YashasTheDev&layout=compact&theme=react)
 
