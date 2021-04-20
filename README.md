@@ -1,5 +1,5 @@
 # **FirewallStampede** #
-![](https://komarev.com/ghpvc/?username=FirewallStampede)
+![](https://komarev.com/ghpvc/?username=FirewallStampede)![](https://img.shields.io/badge/Role-Headmaster-orange)
 #
 🏫 I go to George H. Moody Middle School and I love to learn new things!
 
