@@ -1,4 +1,4 @@
-# **<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello, world!** #
+# **<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="45"/> Hello, world!** #
 ![](https://komarev.com/ghpvc/?username=FirewallStampede)
 #
 🏫 I go to George H. Moody Middle School and I love to learn new things!
