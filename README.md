@@ -17,18 +17,18 @@
 
 ![](https://img.shields.io/badge/Role-Pro%20Software%20Dev-orange)
 
-![YashasTheDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=YashasTheDev&show_icons=true&theme=react)
+![YashasTheDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=coolcoder-js&show_icons=true&theme=react)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YashasTheDev&layout=compact&theme=react)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coolcoder-js&layout=compact&theme=react)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=YashasTheDev&theme=nord)
+![trophy](https://github-profile-trophy.vercel.app/?username=coolcoder-js&theme=nord)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YashasTheDev&theme=react)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=coolcoder-js&theme=react)
 
 ##
 
 ## **➕ More** ##
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YashasTheDev&repo=Build-a-Better-README&theme=react)](https://github.com/YashasTheDev/Build-a-Better-README)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YashasTheDev&repo=Entry-Badges&theme=react)](https://github.com/YashasTheDev/Entry-Badges)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=coolcoder-js&repo=Build-a-Better-README&theme=react)](https://github.com/YashasTheDev/Build-a-Better-README)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=coolcoder-js&repo=Entry-Badges&theme=react)](https://github.com/YashasTheDev/Entry-Badges)
 ###### Go visit it!
 
 Scroll down for more!
