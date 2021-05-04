@@ -17,7 +17,9 @@
 
 ![](https://img.shields.io/badge/Role-Pro%20Software%20Dev-orange)
 
-![YashasTheDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=coolcoder-js&show_icons=true&theme=react)
+![coolcoder-js's GitHub stats](https://github-readme-stats.vercel.app/api?username=coolcoder-js&show_icons=true&theme=react)
+
+![coolcoder-js's github activity graph](https://activity-graph.herokuapp.com/graph?username=coolcoder-js&theme=rogue)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coolcoder-js&layout=compact&theme=react)
 
