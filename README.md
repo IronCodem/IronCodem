@@ -1,7 +1,7 @@
 # **Hello, world!** #
 ![](https://komarev.com/ghpvc/?username=FirewallStampede)
 
-[![](https://img.shields.io/badge/Github-Skyline-blue)](https://skyline.github.com/coolcoder-js/2021)
+[![](https://img.shields.io/badge/Skyline-2021-blue)](https://skyline.github.com/coolcoder-js/2021)
 #
 🏫 I go to George H. Moody Middle School and I love to learn new things!
 
