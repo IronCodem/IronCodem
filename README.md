@@ -1,5 +1,7 @@
 # **Hello, world!** #
 ![](https://komarev.com/ghpvc/?username=FirewallStampede)
+
+[![](https://img.shields.io/badge/Github-Skyline-blue)](https://skyline.github.com/coolcoder-js/2021)
 #
 🏫 I go to George H. Moody Middle School and I love to learn new things!
 
@@ -15,7 +17,7 @@
 
 ## **⚡ Github Highlights** ##
 
-![](https://img.shields.io/badge/Role-Pro%20Software%20Dev-orange)
+![](https://img.shields.io/badge/Role-Pro%20Software%20Dev-blue)
 
 ![coolcoder-js's GitHub stats](https://github-readme-stats.vercel.app/api?username=coolcoder-js&show_icons=true&theme=react)
 
