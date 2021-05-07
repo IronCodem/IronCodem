@@ -1,4 +1,4 @@
-# **<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="45"/> Hello, world!** #
+# **Hello, world!** #
 ![](https://komarev.com/ghpvc/?username=FirewallStampede)
 #
 🏫 I go to George H. Moody Middle School and I love to learn new things!
@@ -30,7 +30,9 @@
 ##
 
 ## **➕ More** ##
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=coolcoder-js&repo=Build-a-Better-README&theme=react)](https://github.com/YashasTheDev/Build-a-Better-README)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=coolcoder-js&repo=Entry-Badges&theme=react)](https://github.com/YashasTheDev/Entry-Badges)
-###### Go visit it!
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=coolcoder-js&repo=Build-a-Better-README&theme=react)](https://github.com/YashasTheDev/Build-a-Better-README)
 
-Scroll down for more!
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=coolcoder-js&repo=Multiplayer-Chat&theme=react)](https://github.com/coolcoder-js/Multiplayer-Chat)
+###### Go view them!
+
+<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="45"/>
