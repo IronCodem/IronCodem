@@ -7,7 +7,7 @@
 
 🏏Sometimes, I like to play cricket and soccer, except the COVID times where I just play Cricket 2011 (the EA game)
 
-👨🏻‍💻 You can find me on [Replit](http://repl.it/@YashasShah) and [GitHub](http://github.com/ParrotCode101)
+👨🏻‍💻 You can find me on [Replit](http://repl.it/@YashasShah), [GitHub](http://github.com/coolcoder-js), and [GitLab](https://gitlab.com/coolcoder-js)
 
 🌱 Learning Macron.js
 
