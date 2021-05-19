@@ -23,8 +23,11 @@
 
 ![coolcoder-js's github activity graph](https://activity-graph.herokuapp.com/graph?username=coolcoder-js&theme=rogue)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coolcoder-js&layout=compact&theme=react)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coolcoder-js&hide=html,css&layout=compact&theme=react)
+###### ^ does not contain certain languages
 
+###
+###
 ![trophy](https://github-profile-trophy.vercel.app/?username=coolcoder-js&theme=nord)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=coolcoder-js&theme=react)
