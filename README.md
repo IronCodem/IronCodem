@@ -39,4 +39,4 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=coolcoder-js&repo=Multiplayer-Chat&theme=react)](https://github.com/coolcoder-js/Multiplayer-Chat)
 ###### Go view them!
 
-<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="45"/>
+👋 Bye for now!
