@@ -34,9 +34,8 @@
 ##
 
 ## **➕ More** ##
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=coolcoder-js&repo=Build-a-Better-README&theme=react)](https://github.com/YashasTheDev/Build-a-Better-README)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=coolcoder-js&repo=Multiplayer-Chat&theme=react)](https://github.com/coolcoder-js/Multiplayer-Chat)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=coolcoder-js&repo=Oregon-Trail&theme=react)](https://github.com/coolcoder-js/Oregon-Trail)
 ###### Go view them!
 
 👋 Bye for now!
