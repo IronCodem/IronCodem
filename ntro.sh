@@ -1,6 +1,6 @@
 # I like to: 
 fav_1=code
-fav_2=Design on CAD
+fav_2=design on CAD softwares
 fav_3=climb trees
 
 
