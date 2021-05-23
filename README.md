@@ -36,6 +36,6 @@
 ## **➕ More** ##
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=coolcoder-js&repo=Oregon-Trail&theme=react)](https://github.com/coolcoder-js/Oregon-Trail)
-###### Go view them!
+###### Go view it!
 
 👋 Bye for now!
