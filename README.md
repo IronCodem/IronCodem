@@ -23,7 +23,7 @@
 
 ![coolcoder-js's github activity graph](https://activity-graph.herokuapp.com/graph?username=coolcoder-js&theme=rogue)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coolcoder-js&hide=html,css,crystal&layout=compact&theme=react)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coolcoder-js&layout=compact&theme=react)
 
 ###
 ###
