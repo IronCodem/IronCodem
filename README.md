@@ -31,8 +31,6 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=G0RG3&theme=react)
 
-![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=G0RG3&theme=react)
-
 
 ##
 
