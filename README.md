@@ -19,9 +19,9 @@
 
 ![](https://img.shields.io/badge/Role-Pro%20Software%20Dev-blue)
 
-![coolcoder-js's GitHub stats](https://github-readme-stats.vercel.app/api?username=G0RG3&show_icons=true&theme=react)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=G0RG3&show_icons=true&theme=react)
 
-![coolcoder-js's github activity graph](https://activity-graph.herokuapp.com/graph?username=G0RG3&theme=rogue)
+![github activity graph](https://activity-graph.herokuapp.com/graph?username=G0RG3&theme=rogue)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=G0RG3&layout=compact&theme=react)
 
@@ -30,6 +30,9 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=G0RG3&theme=nord)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=G0RG3&theme=react)
+
+![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=G0RG3&theme=react)
+
 
 ##
 
