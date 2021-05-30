@@ -1,4 +1,4 @@
-# **Hello, world!** #
+# **Hello world!** #
 ![](https://komarev.com/ghpvc/?username=FirewallStampede)
 
 [![](https://img.shields.io/badge/Skyline-2021-blue)](https://skyline.github.com/G0RG3/2021)
@@ -16,8 +16,6 @@
 ##
 
 ## **⚡ Github Highlights** ##
-
-![](https://img.shields.io/badge/Role-Pro%20Software%20Dev-blue)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=G0RG3&show_icons=true&theme=react)
 
