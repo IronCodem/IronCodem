@@ -17,24 +17,24 @@
 
 ## **⚡ Github Highlights** ##
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=G0RG3&show_icons=true&theme=react)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tr1angular&show_icons=true&theme=react)
 
-![github activity graph](https://activity-graph.herokuapp.com/graph?username=G0RG3&theme=rogue)
+![github activity graph](https://activity-graph.herokuapp.com/graph?username=Tr1angular&theme=rogue)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=G0RG3&layout=compact&theme=react)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tr1angular&layout=compact&theme=react)
 
 ###
 ###
-![trophy](https://github-profile-trophy.vercel.app/?username=G0RG3&theme=nord)
+![trophy](https://github-profile-trophy.vercel.app/?username=Tr1angular&theme=nord)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=G0RG3&theme=react)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tr1angular&theme=react)
 
 
 ##
 
 ## **➕ More** ##
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=G0RG3&repo=Oregon-Trail&theme=react)](https://github.com/G0RG3/Oregon-Trail)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tr1angular&repo=Oregon-Trail&theme=react)](https://github.com/Tr1angular/Oregon-Trail)
 ###### Go view it!
 
 👋 Bye for now!
