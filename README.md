@@ -1,7 +1,7 @@
 # **Hello world!** #
 ![](https://img.shields.io/badge/Profile%20views-3,091-blue)
 
-[![](https://img.shields.io/badge/GitHub-Skyline-2021-blue)](https://skyline.github.com/G0RG3/2021)
+[![](https://img.shields.io/badge/GitHubSkyline-2021-blue)](https://skyline.github.com/G0RG3/2021)
 #
 🏫 I go to George H. Moody Middle School and I love to learn new things!
 
@@ -9,7 +9,7 @@
 
 👨🏻‍💻 You can find me on [Replit](http://repl.it/@G0RG3) and [GitHub](http://github.com/G0RG31)
 
-🌱 Learning Kotlin and VB
+🌱 Learning Advanced JavaScript and VB
 
 🤯 I started coding in first grade
 
