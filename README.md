@@ -1,5 +1,5 @@
 # **Hello world!** #
-![](https://img.shields.io/badge/Profile%20views-3,091-blue)
+![](https://img.shields.io/badge/Profile%20views-3,986-blue)
 
 [![](https://img.shields.io/badge/GitHubSkyline-2021-blue)](https://skyline.github.com/G0RG3/2021)
 #
