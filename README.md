@@ -36,6 +36,6 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tr1angular&repo=Oregon-Trail&theme=react)](https://github.com/Tr1angular/Oregon-Trail)
 ###### Go view it!
-> BTW I forked a [pineapple](https://github.com/Tr1angular/pineapple)!
+> BTW I forked a [poinapple](https://github.com/Tr1angular/poinapple)...
 
 👋 Bye for now!
