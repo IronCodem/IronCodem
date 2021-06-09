@@ -1,5 +1,5 @@
 # **Hello world!** #
-![](https://img.shields.io/badge/Profile%20views-4/509-blue)
+![](https://img.shields.io/badge/Profile%20views-4,814-blue)
 
 [![](https://img.shields.io/badge/GitHubSkyline-2021-blue)](https://skyline.github.com/G0RG3/2021)
 #
@@ -36,5 +36,6 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tr1angular&repo=Oregon-Trail&theme=react)](https://github.com/Tr1angular/Oregon-Trail)
 ###### Go view it!
+> BTW I forked a [pineapple](https://github.com/Tr1angular/pineapple)!
 
 👋 Bye for now!
