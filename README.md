@@ -9,7 +9,7 @@
 
 👨🏻‍💻 You can find me on [Replit](http://repl.it/@G0RG3) and [GitHub](http://github.com/G0RG31)
 
-🌱 Learning Advanced JavaScript and VB
+🌱 Learning Advanced JavaScript and TypeScript
 
 🤯 I started coding in first grade
 
