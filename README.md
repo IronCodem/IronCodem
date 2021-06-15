@@ -1,41 +1,30 @@
-# **Hello world!** #
-![](https://img.shields.io/badge/Profile%20views-7,426-blue)
+### Hi there!
 
-[![](https://img.shields.io/badge/GitHubSkyline-2021-blue)](https://skyline.github.com/Tr1angular/2021)
-#
-🏫 I go to George H. Moody Middle School and I love to learn new things!
+<img src="https://user-images.githubusercontent.com/79524299/118518307-fd75b000-b705-11eb-8b1b-2e9ca635a94c.png" alt="Hello world!">
 
-🏏Sometimes, I like to play cricket and soccer, except the COVID times where I just play Cricket 2011 (EA)
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/CoolCoderSJ/count.svg" />
+</p>
 
-👨🏻‍💻 You can find me on [Replit](http://repl.it/@G0RG3) and [GitHub](http://github.com/G0RG31)
+- 🔭 I’m currently working on a JavaScript/Typescript Discord Bot
+- 🌱 I’m currently learning JavaScript and TypeScript
+- 👯 I’m looking to collaborate on [Discord](https://github.com/Tr1angular/Discord)
+- 🤔 I’m looking for help with TypeScript
+- 📫 How to reach me: [email as stated in the info box]
+- 😄 Pronouns: he/him/his
+- ⚡ Fun fact: I started coding in the first grade!
 
-🌱 Learning Advanced JavaScript and TypeScript
+* Repl.it - [G0RG3](https://repl.it/@G0RG3) 
+* Github - [Tr1angular](https://github.com/Tr1angular)
 
-🤯 I started coding in first grade
-
-##
-
-## **⚡ Github Highlights** ##
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tr1angular&show_icons=true&theme=react)
-
-![github activity graph](https://activity-graph.herokuapp.com/graph?username=Tr1angular&theme=rogue)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tr1angular&layout=compact&theme=react)
 
-###
-###
-![trophy](https://github-profile-trophy.vercel.app/?username=Tr1angular&theme=nord)
-
+![github activity graph](https://activity-graph.herokuapp.com/graph?username=Tr1angular&theme=rogue)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tr1angular&theme=react)
 
+![trophy](https://github-profile-trophy.vercel.app/?username=Tr1angular&theme=nord)
 
-##
 
-## **➕ More** ##
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tr1angular&repo=Oregon-Trail&theme=react)](https://github.com/Tr1angular/Oregon-Trail)
-###### Go view it!
-> BTW I forked a [poinapple](https://github.com/Tr1angular/poinapple)...
-
-👋 Bye for now!
