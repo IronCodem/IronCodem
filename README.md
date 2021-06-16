@@ -1,4 +1,4 @@
-### Hi there!
+### Hyelo!
 
 <img src="https://user-images.githubusercontent.com/79524299/118518307-fd75b000-b705-11eb-8b1b-2e9ca635a94c.png" alt="Hello world!">
 
