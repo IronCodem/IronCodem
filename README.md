@@ -11,7 +11,6 @@
 - 🌱 I’m currently learning JavaScript and TypeScript
 - 👯 I’m looking to collaborate on [FFC](https://github.com/Tr1angular/FFC)
 - 🤔 I’m looking for help with TypeScript
-- 📫 How to reach me: [email as stated in the info box]
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I started coding in the first grade!
 
