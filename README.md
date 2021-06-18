@@ -4,12 +4,12 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/CoolCoderSJ/count.svg" />
+  <img src="https://profile-counter.glitch.me/CoolCoderSJ/count.svg" />  <!--  thank you for that!  -->
 </p>
 
-- 🔭 I’m currently working on a JavaScript/Typescript Discord Bot
+- 🔭 I’m currently working on a Full Function Calculator
 - 🌱 I’m currently learning JavaScript and TypeScript
-- 👯 I’m looking to collaborate on [Discord](https://github.com/Tr1angular/Discord)
+- 👯 I’m looking to collaborate on [FFC](https://github.com/Tr1angular/FFC)
 - 🤔 I’m looking for help with TypeScript
 - 📫 How to reach me: [email as stated in the info box]
 - 😄 Pronouns: he/him/his
