@@ -1,18 +1,16 @@
 ### Hyelo!
 
-<img src="https://user-images.githubusercontent.com/79524299/118518307-fd75b000-b705-11eb-8b1b-2e9ca635a94c.png" alt="Hello world!">
-
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/CoolCoderSJ/count.svg" />  <!--  thank you for that!  -->
 </p>
 
-- 🔭 I’m currently working on a Full Function Calculator
-- 🌱 I’m currently learning JavaScript and TypeScript
-- 👯 I’m looking to collaborate on [FFC](https://github.com/Tr1angular/FFC)
-- 🤔 I’m looking for help with TypeScript
-- 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I started coding in the first grade!
+- 🔭  I’m currently working on a Full Function Calculator
+- 🌱  I’m currently learning JavaScript and TypeScript
+- 💬  I’m looking to collaborate on [FFC](https://github.com/Tr1angular/FFC)
+- 🤔  I’m looking for help with TypeScript
+- 😄  Pronouns: he/him/his
+- ⚡  Fun fact: I started coding in the first grade!
 
 * Repl.it - [G0RG3](https://repl.it/@G0RG3) 
 * Github - [Tr1angular](https://github.com/Tr1angular)
