@@ -7,7 +7,7 @@
 
 - 🔭  I’m currently working on a Full Function Calculator
 - 🌱  I’m currently learning JavaScript and TypeScript
-- 💬  I’m looking to collaborate on [FFC](https://github.com/Tr1angular/FFC) and [NewsDaily](https://github.com/Tr1angular/NewsDaily)
+- 💬  I’m looking to collaborate on [FFC](https://github.com/Tr1angular/FFC) and [Highland OS](https://github.com/orgs/Highland-OS) (yes, I can advertise b/c I'm the only one in it) 
 - 🤔  I’m looking for help with TypeScript
 - 😄  Pronouns: he/him/his
 - ⚡  Fun fact: I started coding in the first grade!
